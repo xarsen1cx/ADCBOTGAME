@@ -1,0 +1,17 @@
+{
+  player_stats {
+    health 100,
+    attack 10,
+    defense 5
+  },
+  classes {
+    warrior {
+      health_bonus 20,
+      attack_bonus 5
+    },
+    mage {
+      health_bonus 10,
+      attack_bonus 10
+    }
+  }
+}

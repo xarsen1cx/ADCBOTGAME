@@ -1,0 +1,12 @@
+{
+  "goblin": {
+    "health": 30,
+    "attack": 8,
+    "special_ability": "Poison Strike"
+  },
+  "dragon": {
+    "health": 150,
+    "attack": 20,
+    "special_ability": "Fire Breath"
+  }
+}

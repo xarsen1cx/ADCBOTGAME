@@ -1,0 +1,14 @@
+{
+  "sword": {
+    "name": "Sword",
+    "type": "weapon",
+    "attack_bonus": 15,
+    "rarity": "common"
+  },
+  "potion": {
+    "name": "Health Potion",
+    "type": "consumable",
+    "healing_amount": 20,
+    "rarity": "uncommon"
+  }
+}
